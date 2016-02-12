@@ -148,3 +148,11 @@ hi vimOption ctermfg=222 ctermbg=NONE cterm=NONE guifg=#d9c767 guibg=NONE gui=NO
 
 " Extra CtrlP highlighting.
 hi CtrlPMatch term=reverse ctermfg=188 ctermbg=24 guifg=#a9b7c6 guibg=#214283 gui=none
+
+
+
+hi hsTypeDef ctermfg=208
+hi hsModuleName ctermfg=103
+hi Structure ctermfg=208
+hi hsType ctermfg=103
+hi Operator ctermfg=66 ctermbg=NONE cterm=NONE guifg=#a9b7c6 guibg=NONE gui=NONE
