@@ -156,3 +156,7 @@ hi hsModuleName ctermfg=103
 hi Structure ctermfg=208
 hi hsType ctermfg=103
 hi Operator ctermfg=66 ctermbg=NONE cterm=NONE guifg=#a9b7c6 guibg=NONE gui=NONE
+
+hi diffAdded ctermfg=71
+hi diffRemoved ctermfg=88
+
